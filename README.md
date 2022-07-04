@@ -3,7 +3,7 @@
   <img src="https://telegra.ph/file/9564d9a1611cd4003231d.jpg" alt="filmy duniya">
 </p>
 <h1 align="center">
-  <b>file_filters_bot</b>
+  <b>filefilters_bot</b>
 </h1>
 
 [![Stars](https://img.shields.io/github/stars/Janasaikat1/filefilters_bot?style=flat-square&color=orange)](https://github.com/Janasaikat1/filefilters_bot/stargazers)
